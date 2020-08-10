@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/warehouse-vis/static/css/main.71173543.chunk.css",
+    "main.js": "/warehouse-vis/static/js/main.010167be.chunk.js",
+    "main.js.map": "/warehouse-vis/static/js/main.010167be.chunk.js.map",
+    "runtime-main.js": "/warehouse-vis/static/js/runtime-main.83b747ad.js",
+    "runtime-main.js.map": "/warehouse-vis/static/js/runtime-main.83b747ad.js.map",
+    "static/js/2.04e23a4a.chunk.js": "/warehouse-vis/static/js/2.04e23a4a.chunk.js",
+    "static/js/2.04e23a4a.chunk.js.map": "/warehouse-vis/static/js/2.04e23a4a.chunk.js.map",
+    "index.html": "/warehouse-vis/index.html",
+    "precache-manifest.1b1247aa4ce853b50025ebb41b85f0f2.js": "/warehouse-vis/precache-manifest.1b1247aa4ce853b50025ebb41b85f0f2.js",
+    "service-worker.js": "/warehouse-vis/service-worker.js",
+    "static/css/main.71173543.chunk.css.map": "/warehouse-vis/static/css/main.71173543.chunk.css.map",
+    "static/js/2.04e23a4a.chunk.js.LICENSE.txt": "/warehouse-vis/static/js/2.04e23a4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83b747ad.js",
+    "static/js/2.04e23a4a.chunk.js",
+    "static/css/main.71173543.chunk.css",
+    "static/js/main.010167be.chunk.js"
+  ]
+}
